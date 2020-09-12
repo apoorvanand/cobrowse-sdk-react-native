@@ -9,7 +9,7 @@
   "dependencies": {
     "cobrowse-sdk-react-native": "../",
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "0.57.0",
     "react-navigation": "^1.0.3"
   },
   "devDependencies": {
